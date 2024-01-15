@@ -38,6 +38,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guitmonk-1290&" alt="guitmonk-1290" /></p>
+
 ### 📫 &nbsp; How to reach me:
 
 
