@@ -4,8 +4,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a full stack developer currently working mainly with JavaScript and TypeScript \
-🎓&nbsp; I am a student at Punjab Technical University, Jalandhar (B.Tech, Computer Science and Engineering, Batch of 2020-24).\
-🌱 &nbsp;I'm on track for learning how to build scalable and robust web applications.\
 ✍️ &nbsp;Fingerstyle guitarist | Badminton | Writing (songs and fiction...)\
 ✉️ &nbsp;You can email me at adityarana1290@gmail.com. I'll try to respond as soon as possible :)
 
